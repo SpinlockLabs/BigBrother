@@ -1,0 +1,17 @@
+.gradle/
+.idea/
+.vscode/
+.vs/
+.atom/
+*.iml
+
+/*/work/
+/*/build/
+/*/out/
+
+/*/*/work/
+/*/*/build/
+/*/*/out/
+
+Client/client.json
+

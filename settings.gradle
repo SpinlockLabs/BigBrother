@@ -1,0 +1,5 @@
+rootProject.name = 'BigBrother'
+
+include ':Core'
+include ':Client'
+include ':Server'

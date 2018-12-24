@@ -1,0 +1,6 @@
+apply from: file(rootProject.projectDir.toPath().resolve('gradle/java.gradle'))
+
+dependencies {
+    compile group: 'org.mybatis', name: 'mybatis', version: '3.4.6'
+    compile group: 'org.postgresql', name: 'postgresql', version: '42.2.5'
+}

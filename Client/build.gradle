@@ -1,0 +1,5 @@
+apply from: file(rootProject.projectDir.toPath().resolve('gradle/java.gradle'))
+
+dependencies {
+    compile project(':Core')
+}
